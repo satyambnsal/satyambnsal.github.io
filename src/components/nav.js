@@ -249,10 +249,12 @@ class Nav extends Component {
                   {isHome ? (
                     <a href="/" aria-label="home">
                       <IconLogo />
+                      {/* Satyam */}
                     </a>
                   ) : (
                     <Link to="/" aria-label="home">
                       <IconLogo />
+                      {/* Satyam */}
                     </Link>
                   )}
                 </StyledLogo>

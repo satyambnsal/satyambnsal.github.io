@@ -119,8 +119,9 @@ const Footer = () => {
             </StyledGitHubInfo>
           )} */}
         {/* </StyledGitHubLink> */}
-        
+        <span> All Thanks to <a href="https://brittanychiang.com/">Brittany Chiang</a> for website theme</span>        
       </StyledMetadata>
+
     </StyledContainer>
   );
 };
