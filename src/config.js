@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Satyam Bansal | Software developer',
+  siteTitle: 'Satyam Bansal | Software developer | Educator & Mentor',
   siteDescription:
     'Satyam Bansal is a software developer and educator based in Gwalior, India. he helps people become a really good web developer',
   siteKeywords:
-    'Satyam Bansal, Satyam, Bansal, satyam22, satyambnsal, satyam-bansal, Gwalior, software engineer, front-end engineer, web developer, javascript, India, Educator',
+    'Satyam Bansal, Satyam, Bansal, satyambnsal, satyambnsal, satyam-bansal, Gwalior, software engineer, front-end engineer, web developer, javascript, India, Educator',
   siteUrl: 'https://satyambnsal.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-172670715-1',
@@ -11,13 +11,13 @@ module.exports = {
   name: 'Satyam Bansal',
   location: 'Gwalior, India',
   email: 'satyamsgsits1994@gmail.com',
-  github: 'https://github.com/satyam22',
+  github: 'https://github.com/satyambnsal',
   linkedin: 'https://www.linkedin.com/in/satyam-bansal',
   twitterHandle: '@satyambnsal',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/satyam22',
+      url: 'https://github.com/satyambnsal',
     },
     {
       name: 'Linkedin',
