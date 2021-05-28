@@ -1,9 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Satyam Bansal'
-subtitle: "I help people become really good web developer"
+subtitle: ''
 buttonText: 'Get In Touch'
 ---
 
-I'm a software developer and educator based in Gwalior, India experienced in designing and developing web applications. currently helping people learn web development skills to become a really good software developer.
-
+I'm a software developer and educator based in Gwalior, India with more than 5 years of experience in designing and developing large scale web applications with ReactJS, Node and TypeScript.

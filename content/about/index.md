@@ -3,6 +3,7 @@ title: 'About Me'
 avatar: './satyam3.jpg'
 skills:
   - JavaScript (ES6+)
+  - TypeScript
   - HTML & (S)CSS
   - React
   - Node.js
@@ -10,6 +11,7 @@ skills:
   - Docker & Kubrnetics
   - Python
   - Tensorflow(Deep-ml)
+  - Dart and Flutter (Basics)
 ---
 
 I'm a software developer, educator and mentor. I was born in 1994(you can do the math) and grew up in Sabalgarh(small town near Gwalior, India). Shortly after graduating from [SGSITS Indore](http://www.sgsits.ac.in/), I joined the engineering team at [Persistent Systems](https://www.persistent.com/) where I worked on a wide variety of web development projects.
