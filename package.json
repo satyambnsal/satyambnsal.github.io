@@ -10,6 +10,9 @@
   "keywords": [
     "gatsby"
   ],
+  "engine": {
+    "node": ">=12.13.0"
+  },
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -17,7 +20,8 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "prepare": "husky install"
   },
   "husky": {
     "hooks": {
@@ -72,7 +76,7 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.24.0",
     "gatsby-remark-code-titles": "^1.1.0",
-    "husky": "^6.0.0",
+    "husky": "^7.0.0",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.1"
   }
