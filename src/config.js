@@ -33,18 +33,27 @@ module.exports = {
     {
       name: 'About',
       url: '/#about',
+      external: false,
     },
     {
       name: 'Experience',
       url: '/#jobs',
+      external: false,
     },
     {
       name: 'Work',
       url: '/#projects',
+      external: false,
     },
     {
       name: 'Contact',
       url: '/#contact',
+      external: false,
+    },
+    {
+      name: 'Blog',
+      url: 'https://satyambnsal.hashnode.dev/',
+      external: true,
     },
   ],
 

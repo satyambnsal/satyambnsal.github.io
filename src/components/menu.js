@@ -101,9 +101,9 @@ const Menu = ({ menuOpen, toggleMenu }) => {
         <NavLinks>
           <NavList>
             {navLinks &&
-              navLinks.map(({ url, name }, i) => (
+              navLinks.map(({ url, name, external }, i) => (
                 <NavListItem key={i}>
-                  <NavLink to={url}>{name}</NavLink>
+                  <NavLink to={url} target={external ? "_blank" : ""}>{name}</NavLink>
                 </NavListItem>
               ))}
           </NavList>
