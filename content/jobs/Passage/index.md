@@ -3,7 +3,7 @@ date: '2022-02-01'
 title: 'Developer'
 company: 'Passage Protocol'
 location: 'India(Remote)'
-range: 'Feb 2022 - Present'
+range: 'Jan 2022 - Present'
 url: 'https://passage.xyz/'
 ---
 
