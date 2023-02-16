@@ -52,7 +52,7 @@ module.exports = {
     },
     {
       name: 'Blog',
-      url: 'https://satyambnsal.hashnode.dev/',
+      url: 'https://satyambnsal.medium.com/',
       external: true,
     },
   ],
