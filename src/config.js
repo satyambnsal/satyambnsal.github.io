@@ -1,15 +1,15 @@
 module.exports = {
   siteTitle: 'Satyam Bansal | Software Developer',
   siteDescription:
-    'Satyam Bansal is a software developer and educator based in New Delhi, India.',
+    'Satyam Bansal is a software developer and educator based in Bengaluru, India.',
   siteKeywords:
-    'Satyam Bansal, Satyam, Bansal, satyambnsal, satyambnsal, satyam-bansal, New Delhi, software engineer, front-end engineer, web developer, javascript, India, Educator, Blockchain, Crypto, Web3',
+    'Satyam Bansal, Satyam, Bansal, satyambnsal, satyambnsal, satyam-bansal, Bengaluru, software engineer, front-end engineer, web developer, javascript, India, Educator, Blockchain, Crypto, Web3',
   siteUrl: 'https://satyambnsal.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-172670715-1',
   googleVerification: '',
   name: 'Satyam Bansal',
-  location: 'New Delhi, India',
+  location: 'Bengaluru, India',
   email: 'satyamsgsits1994@gmail.com',
   github: 'https://github.com/satyambnsal',
   linkedin: 'https://www.linkedin.com/in/satyam-bansal',
