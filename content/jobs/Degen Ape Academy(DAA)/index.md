@@ -1,6 +1,6 @@
 ---
 date: '2022-06-01'
-title: 'Contract Developer'
+title: 'Individual Contributor'
 company: 'Degen Ape Academy(DAA)'
 location: 'India(Remote)'
 range: 'June 2022 - December 2022'
