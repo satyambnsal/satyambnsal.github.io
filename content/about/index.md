@@ -20,7 +20,7 @@ I'm a software developer, educator and mentor. I was born in 1994(you can do the
 
 I've written code for [Disney + Hotstar](https://www.hotstar.com/), India's largest OTT platform that serves millions of people in and outside India to watch great quality sports and entertainment content.
 
-I am  well-versed in blockchain technologies and have a good understanding of Smart contract development and deployment. In Web3 space, I've written code for [Passage Protocol](https://www.passage.xyz/), [Degen Ape Academy](https://www.degenape.academy/).
+I've decent experience in blockchain technologies and have a good understanding of Smart contract development and deployment. In Web3 space, I've written code for [Passage Protocol](https://www.passage.xyz/).
 
 
 Here are a few technologies I've been working with recently:
