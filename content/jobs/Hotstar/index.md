@@ -3,7 +3,7 @@ date: '2020-01-07'
 title: 'Software Development Engineer'
 company: 'Disney + Hotstar'
 location: 'India'
-range: 'Dec 2018 - June 2020'
+range: 'Apr 2018 - June 2020'
 url: 'https://www.hotstar.com'
 ---
 

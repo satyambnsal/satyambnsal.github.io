@@ -3,7 +3,7 @@ date: '2021-05-20'
 title: 'Engineer'
 company: 'Turing'
 location: 'India(Remote)'
-range: 'May 2021 - Jan 2022'
+range: 'Jul 2020 - Jan 2022'
 url: 'https://www.turing.com/'
 ---
 
