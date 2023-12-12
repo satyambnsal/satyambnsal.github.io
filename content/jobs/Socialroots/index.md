@@ -3,7 +3,7 @@ date: '2023-01-01'
 title: 'Senior Frontend Engineer'
 company: 'Socialroots'
 location: 'India(Remote)'
-range: 'Jan 2023 - Present'
+range: 'Jan 2023 - Sept 2023'
 url: 'https://socialroots.io/'
 ---
 

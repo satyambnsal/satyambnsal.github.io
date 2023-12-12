@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Satyam Bansal is a software developer and educator based in Bengaluru, India.',
   siteKeywords:
-    'Satyam Bansal, Satyam, Bansal, satyambnsal, satyambnsal, satyam-bansal, Bengaluru, software engineer, front-end engineer, web developer, javascript, India, Educator, Blockchain, Crypto, Web3',
+    'Satyam Bansal, Satyam, Bansal, satyambnsal, satyambnsal, satyam-bansal, Bengaluru, software engineer, front-end engineer, web developer, javascript, India, Educator, Blockchain, Crypto, Web3, Starknet, Cairo Developer',
   siteUrl: 'https://satyambnsal.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-172670715-1',
@@ -26,6 +26,10 @@ module.exports = {
     {
       name: 'Twitter',
       url: 'https://twitter.com/satyambnsal',
+    },
+    {
+      name: 'Youtube',
+      url: 'https://www.youtube.com/@all_things_rust/streams',
     },
   ],
 
