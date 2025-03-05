@@ -1,5 +1,5 @@
 ---
-date: '10'
+date: '3'
 title: 'Noirlings'
 cover: './demo.png'
 github: 'https://github.com/satyambnsal/noirlings'

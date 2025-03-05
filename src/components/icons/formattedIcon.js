@@ -16,7 +16,9 @@ import {
   IconStar,
   IconTwitter,
   IconZap,
+  IconTelegram
 } from '@components/icons';
+import IconYouTube from './youtube';
 
 const FormattedIcon = ({ name }) => {
   switch (name) {
@@ -48,6 +50,10 @@ const FormattedIcon = ({ name }) => {
       return <IconStar />;
     case 'Twitter':
       return <IconTwitter />;
+    case 'Telegram':
+      return <IconTelegram />
+    case 'Youtube':
+      return <IconYouTube />
     case 'Zap':
       return <IconZap />;
     default:

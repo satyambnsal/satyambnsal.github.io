@@ -28,6 +28,10 @@ module.exports = {
       url: 'https://twitter.com/satyambnsal',
     },
     {
+      name: 'Telegram',
+      url: 'https://t.me/satyambnsal',
+    },
+    {
       name: 'Youtube',
       url: 'https://www.youtube.com/@all_things_rust/streams',
     },
