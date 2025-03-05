@@ -227,8 +227,8 @@ const Featured = ({ data }) => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
-                  <StyledLabel>Featured Project</StyledLabel>
-                  {/* <StyledProjectName>
+                  {/* <StyledLabel>Featured Project</StyledLabel> */}
+                  <StyledProjectName>
                     {external ? (
                       <a
                         href={external}
@@ -240,7 +240,7 @@ const Featured = ({ data }) => {
                     ) : (
                       title
                     )}
-                  </StyledProjectName> */}
+                  </StyledProjectName>
                   <StyledDescription dangerouslySetInnerHTML={{ __html: html }} />
                   {tech && (
                     <StyledTechList>

@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '0'
 title: 'Stark Voice'
 cover: './demo.png'
 github: 'https://github.com/satyambnsal/starknet-dapp'
